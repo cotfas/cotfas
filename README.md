@@ -31,7 +31,7 @@ _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯�
 👯 Looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨😁
 <br />
 
-📩 Reach me at →→→ [LinkedIn](https://linkedin.com/in/vladcotfas)
+📩 Reach me at →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) or at 𝘷𝘭𝘢𝘥[𝘢𝘵]𝘥𝘪𝘨𝘪𝘵𝘢𝘭𝘣𝘪𝘯𝘢𝘳𝘺.𝘪𝘰
 
 <!--
 **cotfas/cotfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
