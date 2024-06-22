@@ -30,7 +30,9 @@
 <br />
 👯 I’m looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨😁
 <br />
-📫 How to reach me →→→ https://linkedin.com/in/vladcotfas
+📫 How to reach me →→→
+
+Reach me at →→→ [LinkedIn](https://linkedin.com/in/vladcotfas)
 
 <!--
 **cotfas/cotfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
