@@ -31,16 +31,6 @@ _ ► 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘋𝘙𝘖𝘐𝘋𝘊𝘖𝘕 𝘐𝘵𝘢
 _ ► 𝘝𝘰𝘭𝘶𝘯𝘵𝘦𝘦𝘳 & 𝘛𝘳𝘦𝘢𝘴𝘶𝘳𝘦𝘳 @ 𝘙𝘰𝘵𝘢𝘳𝘢𝘤𝘵 𝘊𝘭𝘶𝘣 𝘛𝘎𝘔𝘚, 2019<br />
 _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯𝘴 𝘊𝘦𝘳𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘦, 2022<br />
 
-<br />
-🎯 𝗪𝗼𝗿𝗸𝗦𝘁𝘆𝗹𝗲 𝗮𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁:<br />
-
-> *The WorkStyle assessment helps articulate how each developer approaches their work.
-> From core motivations, to energy drains, to down time needs, everyone is a little different.
-> WorkStyle helps identify highly compatible work culture and role attribute matches, a critically important factor in building quality professional relationships.*
-
-![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle-crop.png)
-
-
 
 <br />
 <br />
@@ -49,9 +39,23 @@ _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯�
 
 📩 Reach me at →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) or 𝘷𝘭𝘢𝘥[𝘢𝘵]𝘥𝘪𝘨𝘪𝘵𝘢𝘭𝘣𝘪𝘯𝘢𝘳𝘺.𝘪𝘰
 
+
+
+<br />
+🎯 𝗪𝗼𝗿𝗸𝗦𝘁𝘆𝗹𝗲 𝗮𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁:<br />
+
+![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle-crop.png)
+<br />
+
+<!--
+*The WorkStyle assessment helps articulate how each developer approaches their work. From core motivations, to energy drains, to down time needs, everyone is a little different. WorkStyle helps identify highly compatible work culture and role attribute matches, a critically important factor in building quality professional relationships.*
+-->
+
+
 <!--
 ![My animated logo](https://github.com/cotfas/cotfas/blob/main/github-contribution-grid-snake-dark.svg)
 -->
+
 <!--
 **cotfas/cotfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
