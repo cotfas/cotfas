@@ -42,9 +42,8 @@ _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯�
 
 
 <br />
-🎯 𝗪𝗼𝗿𝗸𝗦𝘁𝘆𝗹𝗲 𝗮𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁:<br />
 
-![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle-crop.png)
+<span style="display:block;text-align:center">![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle.png)</span>
 <br />
 
 <!--
