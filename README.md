@@ -31,6 +31,16 @@ _ ► 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘋𝘙𝘖𝘐𝘋𝘊𝘖𝘕 𝘐𝘵𝘢
 _ ► 𝘝𝘰𝘭𝘶𝘯𝘵𝘦𝘦𝘳 & 𝘛𝘳𝘦𝘢𝘴𝘶𝘳𝘦𝘳 @ 𝘙𝘰𝘵𝘢𝘳𝘢𝘤𝘵 𝘊𝘭𝘶𝘣 𝘛𝘎𝘔𝘚, 2019<br />
 _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯𝘴 𝘊𝘦𝘳𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘦, 2022<br />
 
+<br />
+🎯 𝗪𝗼𝗿𝗸𝗦𝘁𝘆𝗹𝗲 𝗮𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁:<br />
+
+> *The WorkStyle assessment helps articulate how each developer approaches their work.
+> From core motivations, to energy drains, to down time needs, everyone is a little different.
+> WorkStyle helps identify highly compatible work culture and role attribute matches, a critically important factor in building quality professional relationships.*
+
+![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle-crop.png)
+
+
 
 <br />
 <br />
