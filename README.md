@@ -43,8 +43,8 @@ _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯�
 
 <br />
 
-<span style="display:block;text-align:center">![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle.png)</span>
-<br />
+![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle.png)
+
 
 <!--
 *The WorkStyle assessment helps articulate how each developer approaches their work. From core motivations, to energy drains, to down time needs, everyone is a little different. WorkStyle helps identify highly compatible work culture and role attribute matches, a critically important factor in building quality professional relationships.*
