@@ -51,8 +51,10 @@ _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯�
 -->
 
 
-
+<!--
 ![My animated logo](https://github.com/cotfas/cotfas/blob/main/github-contribution-grid-snake-dark.svg)
+-->
+
 
 
 <!--
