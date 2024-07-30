@@ -48,7 +48,7 @@ _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯�
 -->
 
 
-![Counter](https://komarev.com/ghpvc/?username=cotfas&color=brightgreen) 
+![Counter](https://komarev.com/ghpvc/?username=cotfas&color=red&base=10000)
 
 
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
