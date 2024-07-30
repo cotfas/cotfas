@@ -1,4 +1,6 @@
 ![Top Header](https://github.com/cotfas/cotfas/blob/main/Vlad-Cotfas-Mobile-Tech-Expert.jpg)
+<div dir="rtl">"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</div>
+
 
 ## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋 →→→ 🧩𝘔𝘺 𝘤𝘰𝘥𝘦 𝘳𝘶𝘯𝘴 𝘰𝘯 1𝘔+ 𝘮𝘰𝘣𝘪𝘭𝘦 𝘥𝘦𝘷𝘪𝘤𝘦𝘴😁
 
@@ -42,13 +44,16 @@ _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯�
 📩 Reach me at →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) or 𝘷𝘭𝘢𝘥[𝘢𝘵]𝘥𝘪𝘨𝘪𝘵𝘢𝘭𝘣𝘪𝘯𝘢𝘳𝘺.𝘪𝘰
 
 
-
 <br />
 <!--
 ![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle.png)
 -->
 
-![Counter from 25 July 2024](https://komarev.com/ghpvc/?username=cotfas&color=brightgreen) 
+
+![Counter](https://komarev.com/ghpvc/?username=cotfas&color=brightgreen) 
+
+
+
 
 <!--
 *The WorkStyle assessment helps articulate how each developer approaches their work. From core motivations, to energy drains, to down time needs, everyone is a little different. WorkStyle helps identify highly compatible work culture and role attribute matches, a critically important factor in building quality professional relationships.*
