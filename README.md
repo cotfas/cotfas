@@ -44,9 +44,9 @@ _ ► 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯�
 
 
 <br />
-
+<!--
 ![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle.png)
-
+-->
 
 ![Counter from 25 July 2024](https://komarev.com/ghpvc/?username=cotfas&color=brightgreen) 
 
