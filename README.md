@@ -60,9 +60,9 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 ##
 
-🌱 Looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨📲
+🌱 Looking to collaborate on →→→ `𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨`📲
 <br />
-⛩️ Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️<br />
+⛩️ Location →→→ `𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮`‼️<br />
 📩 Reach me at →→→ [LinkedIn](https://linkedin.com/in/vladcotfas)🚀
 
 <div dir="rtl"><sub>made with ❤️ by 𝘷𝘭𝘢𝘥[𝘢𝘵]𝘥𝘪𝘨𝘪𝘵𝘢𝘭𝘣𝘪𝘯𝘢𝘳𝘺.𝘪𝘰</sub></div>
