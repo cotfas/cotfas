@@ -62,10 +62,13 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 🌱 Looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨😁
 <br />
-📩 Reach me at →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) or 𝘷𝘭𝘢𝘥[𝘢𝘵]𝘥𝘪𝘨𝘪𝘵𝘢𝘭𝘣𝘪𝘯𝘢𝘳𝘺.𝘪𝘰
+📩 Reach me at →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) 
+
+<div dir="rtl"><sub>made with ❤️ by 𝘷𝘭𝘢𝘥[𝘢𝘵]𝘥𝘪𝘨𝘪𝘵𝘢𝘭𝘣𝘪𝘯𝘢𝘳𝘺.𝘪𝘰</sub></div>
+<div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
-##
+
 <!--
 ![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle.png)
 -->
@@ -75,7 +78,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 ![Counter](https://komarev.com/ghpvc/?username=cotfas&color=red&base=10000)
 -->
 
-<div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
+
 
 
 <!--
