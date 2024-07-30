@@ -1,6 +1,7 @@
 ![Top Header](https://github.com/cotfas/cotfas/blob/main/Vlad-Cotfas-Mobile-Tech-Expert.jpg)
 <img align="right" src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=50000">
 
+<br />
 ## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋 →→→ 🧩𝘔𝘺 𝘤𝘰𝘥𝘦 𝘳𝘶𝘯𝘴 𝘰𝘯 1𝘔+ 𝘮𝘰𝘣𝘪𝘭𝘦 𝘥𝘦𝘷𝘪𝘤𝘦𝘴😁
 
 🤖 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘴𝘪𝘯𝘤𝘦 2012<br />
