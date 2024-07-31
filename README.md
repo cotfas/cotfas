@@ -59,6 +59,12 @@ _ ► 𝘚𝘵𝘳𝘰𝘯𝘨 𝘴𝘦𝘯𝘴𝘦 𝘰𝘧 𝘰𝘸𝘯𝘦�
 🚧 𝗣𝗿𝗼𝘂𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁:<br />
 _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 • 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘥 𝘢 𝘔𝘢𝘤 𝘖𝘚 𝘟 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘖𝘣𝘫𝘦𝘤𝘵𝘪𝘷𝘦-𝘊 𝘢𝘯𝘥 𝘚𝘸𝘪𝘧𝘵 𝘵𝘰 𝘩𝘢𝘯𝘥𝘭𝘦 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘵𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘨𝘦𝘴𝘵𝘶𝘳𝘦𝘴, 𝘴𝘶𝘤𝘩 𝘢𝘴 𝘤𝘰𝘯𝘵𝘳𝘰𝘭𝘭𝘪𝘯𝘨 𝘴𝘤𝘳𝘦𝘦𝘯 𝘣𝘳𝘪𝘨𝘩𝘵𝘯𝘦𝘴𝘴, 𝘢𝘥𝘫𝘶𝘴𝘵𝘪𝘯𝘨 𝘷𝘰𝘭𝘶𝘮𝘦, 𝘸𝘪𝘯𝘥𝘰𝘸 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵, 𝘢𝘯𝘥 𝘻𝘰𝘰𝘮𝘪𝘯𝘨 𝘵𝘩𝘦 𝘴𝘤𝘳𝘦𝘦𝘯 𝘪𝘯/𝘰𝘶𝘵.
 
+<br />
+<br />
+🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀:<br />
+
+> _“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”_
+
 
 ##
 
