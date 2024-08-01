@@ -1,4 +1,4 @@
-![Top Header](https://github.com/cotfas/cotfas/blob/main/Vlad-Cotfas-Mobile-Tech-Expert.jpg)
+![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/Vlad-Cotfas-Mobile-Tech-Expert.jpg)
 <img align="right" src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=50000">
 
 
@@ -80,7 +80,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 <!--
-![Bottom Header](https://github.com/cotfas/cotfas/blob/main/gunio-workstyle.png)
+![Bottom Header](https://github.com/cotfas/cotfas/blob/main/extras/gunio-workstyle.png)
 -->
 
 
@@ -97,7 +97,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 <!--
-![My animated logo](https://github.com/cotfas/cotfas/blob/main/github-contribution-grid-snake-dark.svg)
+![My animated logo](https://github.com/cotfas/cotfas/blob/main/extras/github-contribution-grid-snake-dark.svg)
 -->
 
 
