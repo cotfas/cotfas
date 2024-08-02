@@ -75,13 +75,17 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 📱 **Projects:**<br />
 
 <p align="center">
-<img align="center" width="40%" src="https://github.com/cotfas/cotfas/blob/main/extras/CashDividerAndroidApp.png"/>
+  <img align="center" width="40%" src="https://github.com/cotfas/cotfas/blob/main/extras/CashDividerAndroidApp.png"/>
   <img align="center" width="35%" src="https://github.com/cotfas/cotfas/blob/main/extras/DailyQuotesApp003.png"/>
 </p>
 
 
+<p align="center">
+  <img align="center" width="80%" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"/>
+</p>
 
-<video src="https://digitalbinary.io/extras/BookForSnackAppSwift.mov"></video>
+
+
 
 <!--
 <br />
