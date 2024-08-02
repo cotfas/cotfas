@@ -73,7 +73,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <p align="center">
 <img align="center" width="40%" src="https://github.com/cotfas/cotfas/blob/main/extras/CashDividerAndroidApp.png"/>
-  <img align="center" width="40%" src="https://github.com/cotfas/cotfas/blob/main/extras/DailyQuotesApp003.png"/>
+  <img align="center" width="35%" src="https://github.com/cotfas/cotfas/blob/main/extras/DailyQuotesApp003.png"/>
 </p>
 
 
