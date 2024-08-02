@@ -80,8 +80,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
-<video src="https://github.com/cotfas/cotfas/raw/main/extras/BookForSnackAppSwift.mov"></video>
 
+<video src="https://digitalbinary.io/extras/BookForSnackAppSwift.mov"></video>
 
 <!--
 <br />
