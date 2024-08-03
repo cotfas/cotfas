@@ -105,14 +105,25 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 
+<table class="images" width="100%"  style="border:0px solid white; width:100%;">
+    <tr style="border: 0px;">
+        <td width="33%" style="border:0px; width:33.33%">
+          <video src="https://github.com/user-attachments/assets/4ad5834e-3e4f-4ba0-ac86-c9b25890a52a"></video> 
+        </td>
+        <td width="33%" style="border:0px; width:33.33%">
+          <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>
+        </td>
+    </tr>
+</table>
 
 
 
-
-
+<!--
 | | |
 |:-------------------------:|:-------------------------:|
 |<video src="https://github.com/user-attachments/assets/4ad5834e-3e4f-4ba0-ac86-c9b25890a52a"></video> |  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>|
+-->
+
 
 
 <!--
