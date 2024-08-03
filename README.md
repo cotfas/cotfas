@@ -87,10 +87,10 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <p align="center">
   <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
-  <img align="center" width="45%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
+  <img align="center" width="50%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
   </a>
   <a href="https://github.com/cotfas/TotalCommander-OSX">
-  <img align="center" width="40%" src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
+  <img align="center" width="45%" src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
   </a>
 </p>
 
