@@ -75,7 +75,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 📱 **Projects:**<br />
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.cashdivider.app">
+  <a href="https://play.google.com/store/apps/details?id=com.cashdivider.app" target="_blank">
   <img align="center" width="40%" src="https://github.com/cotfas/cotfas/blob/main/extras/CashDividerAndroidApp.png"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=ro.rilley.dailybibleapp">
