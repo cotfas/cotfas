@@ -83,7 +83,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <p align="center">
  <!-- <img align="center" width="80%" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"/> -->
 
-  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>
+  <!-- <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video> -->
 </p>
 
 
@@ -91,9 +91,15 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <!-- ![Bottom](https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3) -->
 
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3">  blah |  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+
+
+
+
+
+
+| | |
+|:-------------------------:|:-------------------------:|
+|<video src="https://github.com/user-attachments/assets/4ad5834e-3e4f-4ba0-ac86-c9b25890a52a"></video> |  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>|
 
 
 <!--
