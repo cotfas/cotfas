@@ -87,8 +87,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
-
-
+![Bottom](https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3)
 
 
 <!--
