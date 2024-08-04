@@ -69,6 +69,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 > _“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”_
 
+##
 
 <br />
 
@@ -85,6 +86,15 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 <p align="center">
+  <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
+  <img align="center" width="50%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
+  </a>
+  <a href="https://github.com/cotfas/TotalCommander-OSX">
+  <img align="center" width="45%" src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
+  </a>
+</p>
+
+<p align="center">
  <!-- <img align="center" width="80%" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"/> -->
 
   <!-- <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video> -->
@@ -96,14 +106,25 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 
+<table class="images" width="100%"  style="border:0px solid white; width:100%;">
+    <tr style="border: 0px;">
+        <td width="45%" style="border:0px; width:33.33%">
+          <video src="https://github.com/user-attachments/assets/4ad5834e-3e4f-4ba0-ac86-c9b25890a52a"></video> 
+        </td>
+        <td width="55%" style="border:0px; width:33.33%">
+          <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>
+        </td>
+    </tr>
+</table>
 
 
 
-
-
+<!--
 | | |
 |:-------------------------:|:-------------------------:|
 |<video src="https://github.com/user-attachments/assets/4ad5834e-3e4f-4ba0-ac86-c9b25890a52a"></video> |  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>|
+-->
+
 
 
 <!--
