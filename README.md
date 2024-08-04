@@ -75,6 +75,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 📱 **Projects:**<br />
 
+<!-- App projects -->
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.cashdivider.app" target="_blank" onclick="window.open(this.src, '_blank');">
   <img align="center" width="50%" src="https://github.com/cotfas/cotfas/blob/main/extras/CashDividerAndroidApp.png"/>
@@ -84,7 +85,14 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   </a>
 </p>
 
-
+<!-- Stats projects -->
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=ro.rilley.dailybibleapp">
+  <img align="center" width="80%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-6HFYKwlbuCZ----resized.png"/>
+  </a>
+</p>
+  
+<!-- Github projects -->
 <p align="center">
   <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
   <img align="center" width="50%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
