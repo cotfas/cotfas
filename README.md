@@ -145,12 +145,16 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
  -->
 
-<!--
-<br />
+##
+
+📥 **Annex**:<br />
+
 <p align="center">
-<img align="center" width="60%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-NLqAgXNgYJs2CN---RESIZED.jpg"/>
+  <a href="https://github.com/cotfas/">
+  <img align="center" width="60%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-49b6wKSTV2X--tinified.jpg"/>
+  </a>
 </p>
--->
+
 
 
 
