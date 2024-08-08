@@ -145,20 +145,24 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
  -->
 
-<!--
-<br />
-<p align="center">
-<img align="center" width="60%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-NLqAgXNgYJs2CN---RESIZED.jpg"/>
-</p>
--->
-
-
-
-
-
-
-
 ##
+
+<!-- 📥 **Annex**:<br /> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vladcotfas/">
+  <img align="center" width="80%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-49b6wKSTV2X--tinified.jpg"/>
+  </a>
+</p>
+
+
+
+
+
+
+
+
+-----------------
 
 🌱 `Looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨!`📲
 <br />
