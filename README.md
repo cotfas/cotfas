@@ -152,7 +152,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <!-- 📥 **Annex**:<br /> -->
 
 <p align=center>
-  📥 Annex
+  📥 Annex 🎓
 </p>
   
 <p align="center">
@@ -168,7 +168,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 -----------------
 
 <p align=center>
-  🖥️ Office setup
+  🖥️ Office setup 💻🖱️
 </p>
 
 <p align="center">
