@@ -224,7 +224,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 🍀 _Flexibility and openness to occasional on-site visits!_ 🏢<br />
 🙌 _Collaboration exclusively with the final client, excluding intermediary proxies!_ ❌<br />
 ╰┈➤ _I also want to build a strong long-term partnership!_ 🤝<br />
-🛺 _Preferring to work on startup or product projects where I can be 100% involved!_ 💯<br />
+🛺 _Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved!_ 💯<br />
 📩 _You can reach me at_ →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀
 
 ##
