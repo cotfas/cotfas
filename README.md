@@ -171,7 +171,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 -----------------
 
 <p align=center>
-  🖥️ 𝗢𝗳𝗳𝗶𝗰𝗲 𝘀𝗲𝘁𝘂𝗽 💻
+  <b>🖥️ My remote office setup 💻</b>
 </p>
 
 <p align="center">
