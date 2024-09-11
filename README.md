@@ -84,14 +84,23 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 📱 **Projects:**<br />
 
 <!-- App projects -->
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.cashdivider.app" target="_blank" onclick="window.open(this.src, '_blank');">
-  <img align="center" width="50%" src="https://github.com/cotfas/cotfas/blob/main/extras/CashDividerAndroidApp.png"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=ro.rilley.dailybibleapp">
-  <img align="center" width="45%" src="https://github.com/cotfas/cotfas/blob/main/extras/DailyQuotesApp003.png"/>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://play.google.com/store/apps/details?id=com.cashdivider.app" target="_blank">
+        <img src="https://github.com/cotfas/cotfas/blob/main/extras/CashDividerAndroidApp.png" alt="Cash Divider App" style="width: 100%; max-width: 50%;"/>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://play.google.com/store/apps/details?id=ro.rilley.dailybibleapp" target="_blank">
+        <img src="https://github.com/cotfas/cotfas/blob/main/extras/DailyQuotesApp003.png" alt="Daily Quotes App" style="width: 100%; max-width: 45%;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <!-- Stats projects -->
 <p align="center">
@@ -101,14 +110,21 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
   
 <!-- Github projects -->
-<p align="center">
-  <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
-  <img align="center" width="50%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
-  </a>
-  <a href="https://github.com/cotfas/TotalCommander-OSX">
-  <img align="center" width="45%" src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td style="text-align: center; width: 50%;">
+      <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
+        <img src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg" alt="Bypass Android SSL Pinning" style="width: 100%;"/>
+      </a>
+    </td>
+    <td style="text-align: center; width: 45%;">
+      <a href="https://github.com/cotfas/TotalCommander-OSX">
+        <img src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg" alt="Total Commander on Mac" style="width: 100%;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
  <!-- <img align="center" width="80%" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"/> -->
