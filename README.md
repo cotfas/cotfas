@@ -1,5 +1,7 @@
 ![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/Vlad-Cotfas-Mobile-Tech-Expert.jpg)
-<img align="right" src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" alt="Profile Views" />
+</p>
 
 
 ## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋
