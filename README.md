@@ -176,7 +176,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <!-- 📥 **Annex**:<br /> -->
 
 <p align=center>
-  📥 𝗔𝗻𝗻𝗲𝘅 🎓
+  📥 🏆 Certificates and Achievements🏅 🎓
 </p>
   
 <p align="center">
@@ -203,7 +203,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 -----------------
 
-
+<!--
 
 ⚠️🫠📜 **A story for HRs and Hiring Managers:**
 
@@ -240,7 +240,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 👆👉 _You have to decide, do you want a Salieri that shines at the interviews or a Mozzard that gets the job done⁉️ you can't have both❗_
 
 -----------------
-
+-->
 
 
 🌱 `Looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨!`📲
