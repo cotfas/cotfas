@@ -130,7 +130,10 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   <img align="center" width="95%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC.png"/>
   </a>
 </p>
-  
+
+
+  <details>
+    
 <!-- Github projects -->
 <table width="100%">
   <tr>
@@ -171,7 +174,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
     </tr>
 </table>
 
-
+</details>
 
 <!--
 | | |
