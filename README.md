@@ -1,24 +1,37 @@
 ![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/Vlad-Cotfas-Mobile-Tech-Expert.jpg)
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
 </p>
 
 
-## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋
+## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋, 𝘝𝘭𝘢𝘥 𝘩𝘦𝘳𝘦, ®𝘙𝘦𝘮𝘰𝘵𝘦 𝘚𝘞𝘌, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘔𝘰𝘣𝘪𝘭𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 📲
 
-→→→ 🧩𝘞𝘳𝘰𝘵𝘦 𝘤𝘰𝘥𝘦 𝘵𝘩𝘢𝘵 𝘳𝘶𝘯𝘴 𝘰𝘯 1𝘔+ 𝘮𝘰𝘣𝘪𝘭𝘦 𝘥𝘦𝘷𝘪𝘤𝘦𝘴😁<br />
-→→→ ⛩️𝙊𝙥𝙚𝙣 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙢𝙤𝙗𝙞𝙡𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨🤝<br />
+→→→ ⛩️ 𝙊𝙥𝙚𝙣 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙢𝙤𝙗𝙞𝙡𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 🤝<br />
 
 [tl;dr]<br />
 ⚡ 𝘚𝘦𝘯𝘪𝘰𝘳 𝘔𝘰𝘣𝘪𝘭𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘸𝘪𝘵𝘩 10𝘠𝘖𝘌+<br />
 🗺️ 𝘋𝘪𝘨𝘪𝘵𝘢𝘭 𝘙𝘦𝘮𝘰𝘵𝘦 𝘴𝘪𝘯𝘤𝘦 2015<br />
 🤖 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘴𝘪𝘯𝘤𝘦 2012<br />
-📱 𝘈𝘱𝘱𝘭𝘦/𝘪𝘖𝘚 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘴𝘪𝘯𝘤𝘦 2017<br />
+📱 𝘈𝘱𝘱𝘭𝘦 / 𝘪𝘖𝘚 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘴𝘪𝘯𝘤𝘦 2017<br />
 🧑🏻‍💻 𝘑𝘢𝘷𝘢 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳 (~2𝘺+)<br />
 🎓 𝘔𝘢𝘴𝘵𝘦𝘳 𝘪𝘯 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 (𝘔𝘚𝘤)<br />
-🏅 𝘉𝘢𝘤𝘩𝘦𝘭𝘰𝘳 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 (𝘉𝘌𝘯𝘨/𝘉𝘚𝘤)<br />
+🏅 𝘉𝘢𝘤𝘩𝘦𝘭𝘰𝘳 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 (𝘉𝘌𝘯𝘨 / 𝘉𝘚𝘤)<br />
+🧩 𝘞𝘳𝘰𝘵𝘦 𝘤𝘰𝘥𝘦 𝘵𝘩𝘢𝘵 𝘳𝘶𝘯𝘴 𝘰𝘯 1𝘔+ 𝘮𝘰𝘣𝘪𝘭𝘦 𝘥𝘦𝘷𝘪𝘤𝘦𝘴😁<br />
 •••<br />
 ╰┈➤ 🆘 𝘚𝘦𝘯𝘥 𝘮𝘦 𝘢 𝘳𝘦𝘲𝘶𝘦𝘴𝘵 𝘵𝘰 𝘷𝘪𝘦𝘸 𝘮𝘺 𝘧𝘶𝘭𝘭 𝘊𝘝.
+
+##
+
+*⛩️ Industries that I have work with:*
+```
+- Automotive / car / parts;
+- Finance management;
+- Inspirational quotes;
+- Healthcare industry;
+- Emergency SOS / Maps / Geo-fencing;
+- Business News Apps;
+- Service provider / Owner sector.
+```
 
 ##
 
@@ -39,6 +52,8 @@
 📍 𝗠𝘆 𝘀𝗸𝗶𝗹𝗹 𝘀𝗲𝘁 𝗶𝘀:<br />
 ✅ 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴: 𝘈𝘯𝘥𝘳𝘰𝘪𝘥, 𝘑𝘢𝘷𝘢, 𝘒𝘰𝘵𝘭𝘪𝘯, 𝘪𝘖𝘚, 𝘖𝘣𝘫𝘦𝘤𝘵𝘪𝘷𝘦-𝘊, 𝘚𝘸𝘪𝘧𝘵, 𝘙𝘦𝘢𝘤𝘵 𝘕𝘢𝘵𝘪𝘷𝘦, 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺, 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦, 𝘉𝘢𝘤𝘬𝘦𝘯𝘥, 𝘜𝘐/𝘜𝘟, 𝘙𝘦𝘴𝘵 𝘈𝘗𝘐, 𝘔𝘶𝘭𝘵𝘪-𝘛𝘩𝘳𝘦𝘢𝘥𝘪𝘯𝘨, 𝘜𝘯𝘪𝘵 𝘛𝘦𝘴𝘵𝘪𝘯𝘨.<br />
 ✅ 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘈𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦: 𝘋𝘦𝘱𝘦𝘯𝘥𝘦𝘯𝘤𝘺 𝘐𝘯𝘫𝘦𝘤𝘵𝘪𝘰𝘯, 𝘊𝘭𝘦𝘢𝘯 𝘊𝘰𝘥𝘦, 𝘔𝘝𝘝𝘔, 𝘔𝘝𝘊, 𝘔𝘝𝘗, 𝘖𝘖𝘗, 𝘚𝘖𝘓𝘐𝘋, 𝘊𝘐/𝘊𝘋.<br />
+✅ 𝘊𝘐 / 𝘊𝘋: 𝘋𝘰𝘤𝘬𝘦𝘳, 𝘑𝘦𝘯𝘬𝘪𝘯𝘴, 𝘎𝘪𝘵𝘏𝘶𝘣, 𝘎𝘪𝘵𝘓𝘢𝘣, 𝘉𝘪𝘵𝘉𝘶𝘤𝘬𝘦𝘵, 𝘚𝘝𝘕, 𝘎𝘐𝘛.<br />
+✅ 𝘖𝘚: 𝘞𝘪𝘯𝘥𝘰𝘸𝘴, 𝘓𝘪𝘯𝘶𝘹, 𝘔𝘢𝘤 𝘖𝘚 𝘟.<br />
 <br />
 ⚒️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀:<br />
 ✅ 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘛𝘰𝘰𝘭𝘴: 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘚𝘵𝘶𝘥𝘪𝘰, 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘑 𝘐𝘋𝘌𝘈, 𝘟𝘤𝘰𝘥𝘦 𝘐𝘋𝘌, 𝘎𝘐𝘛, 𝘑𝘦𝘯𝘬𝘪𝘯𝘴, 𝘉𝘪𝘵𝘉𝘶𝘤𝘬𝘦𝘵, 𝘎𝘪𝘵𝘓𝘢𝘣, 𝘎𝘪𝘵𝘏𝘶𝘣, 𝘑𝘪𝘳𝘢, 𝘚𝘭𝘢𝘤𝘬, 𝘎𝘰𝘰𝘨𝘭𝘦 𝘔𝘦𝘦𝘵, 𝘛𝘦𝘢𝘮𝘴.<br />
@@ -75,9 +90,16 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <br />
 🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:<br />
 
-> GM: _“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”_
+<details>
+<i>
+“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”
+</i>
+</details>
 
-##
+-----------------
+
+
+
 
 <br />
 
@@ -108,7 +130,10 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   <img align="center" width="95%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC.png"/>
   </a>
 </p>
-  
+
+
+  <details>
+    
 <!-- Github projects -->
 <table width="100%">
   <tr>
@@ -149,7 +174,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
     </tr>
 </table>
 
-
+</details>
 
 <!--
 | | |
@@ -176,7 +201,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <!-- 📥 **Annex**:<br /> -->
 
 <p align=center>
-  📥 𝗔𝗻𝗻𝗲𝘅 🎓
+  <b>📥 🏆 Certificates and Achievements 🏅 🎓</b>
 </p>
   
 <p align="center">
@@ -203,7 +228,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 -----------------
 
-
+<!--
 
 ⚠️🫠📜 **A story for HRs and Hiring Managers:**
 
@@ -240,7 +265,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 👆👉 _You have to decide, do you want a Salieri that shines at the interviews or a Mozzard that gets the job done⁉️ you can't have both❗_
 
 -----------------
-
+-->
 
 
 🌱 `Looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨!`📲
@@ -255,7 +280,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 9 sept 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 14 sept 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
