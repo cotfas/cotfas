@@ -90,7 +90,11 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <br />
 🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:<br />
 
-> GM: _“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”_
+<details>
+<i>
+“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”
+</i>
+</details>
 
 -----------------
 
