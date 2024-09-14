@@ -129,7 +129,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 
-  <details><summary>More details!</summary>
+  <details><summary>More details (click to expand)!</summary>
   
   </br>
     
