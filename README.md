@@ -6,7 +6,7 @@
 
 ## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋, 𝘝𝘭𝘢𝘥 𝘩𝘦𝘳𝘦, ®𝘙𝘦𝘮𝘰𝘵𝘦 𝘚𝘞𝘌, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘔𝘰𝘣𝘪𝘭𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 📲
 
-→→→ ⛩️𝙊𝙥𝙚𝙣 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙢𝙤𝙗𝙞𝙡𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨🤝<br />
+→→→ ⛩️ 𝙊𝙥𝙚𝙣 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙢𝙤𝙗𝙞𝙡𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 🤝<br />
 
 [tl;dr]<br />
 ⚡ 𝘚𝘦𝘯𝘪𝘰𝘳 𝘔𝘰𝘣𝘪𝘭𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘸𝘪𝘵𝘩 10𝘠𝘖𝘌+<br />
@@ -257,7 +257,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 13 sept 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 14 sept 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
