@@ -132,7 +132,12 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
-  <details>
+
+
+
+  <details><summary>More details!</summary>
+  
+  </br>
     
 <!-- Github projects -->
 <table width="100%">
