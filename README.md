@@ -21,7 +21,7 @@
 ╰┈➤ 🆘 𝘚𝘦𝘯𝘥 𝘮𝘦 𝘢 𝘳𝘦𝘲𝘶𝘦𝘴𝘵 𝘵𝘰 𝘷𝘪𝘦𝘸 𝘮𝘺 𝘧𝘶𝘭𝘭 𝘊𝘝.
 
 ##
-
+<!--
 *⛩️ Industries that I have work with:*
 ```
 - Automotive / car / parts;
@@ -34,6 +34,7 @@
 ```
 
 ##
+-->
 
 ⚡️ 𝘞𝘪𝘵𝘩 𝟭𝟬+ 𝙮𝙚𝙖𝙧𝙨 𝘰𝘧 𝘤𝘰𝘮𝘮𝘦𝘳𝘤𝘪𝘢𝘭 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘱𝘳𝘰𝘷𝘪𝘥𝘪𝘯𝘨 𝘩𝘪𝘨𝘩-𝘲𝘶𝘢𝘭𝘪𝘵𝘺 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴𝘦𝘴 𝘵𝘩𝘢𝘵 𝘯𝘦𝘦𝘥 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘳𝘦𝘢𝘭-𝘭𝘪𝘧𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘸𝘰𝘳𝘭𝘥𝘸𝘪𝘥𝘦🌍.
 
@@ -277,6 +278,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 📩 _You can reach me at_ →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀
 
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
+  <br />
 <i>
 GM: “Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”
 </i>
