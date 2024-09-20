@@ -211,7 +211,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 <p align="center">
-  <a href="https://github.com/cotfas/BookForSnack">
+  <a href="https://github.com/cotfas/BookForSnack-iOS">
   <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/book-for-snack-screenshot-tiny.png"/>
   </a>
 </p>
