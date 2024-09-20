@@ -168,6 +168,21 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
+<!-- Android Connector -->
+<p align=center>
+  <b>🤖 Android Device Connector</b>
+  </br>
+  <sub><i>𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘢 𝘊𝘓𝘐 𝘣𝘢𝘴𝘩 𝘴𝘤𝘳𝘪𝘱𝘵 𝘧𝘰𝘳 𝘔𝘢𝘤 𝘵𝘰 𝘦𝘢𝘴𝘪𝘭𝘺 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘵𝘰 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘴𝘤𝘳𝘦𝘦𝘯 𝘥𝘦𝘷𝘪𝘤𝘦𝘴 𝘳𝘦𝘮𝘰𝘵𝘦𝘭𝘺 𝘷𝘪𝘢 𝘈𝘋𝘉</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cotfas/Android-Device-Connector">
+  <img align="center" width="75%" src="https://github.com/user-attachments/assets/0798fc79-8a4e-460b-90f8-ca1c00e36115"/>
+  </a>
+</p>
+
+
+
 
 
 <details><summary>More details (click to expand)!</summary>
