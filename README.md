@@ -154,6 +154,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 <details><summary>🔥 More project details (click to expand)❗</summary>
+
+</br>
   
 <!-- SSLPinning -->
 <p align=center>
