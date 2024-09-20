@@ -218,14 +218,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <!-- 📥 **Annex**:<br /> -->
 
 <details>
-  <summary>
-  <p align=center>
-  <b>📥 🏆 Certificates and Achievements 🏅 🎓 (click to expand)</b>
-  </p>
-  </summary>
+  <summary><b>📥 🏆 Certificates and Achievements 🏅 🎓 (click to expand)</b></summary>
   
-
-
 <p align="center">
   
   <a href="https://www.linkedin.com/in/vladcotfas/">
