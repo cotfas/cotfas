@@ -239,6 +239,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <p align=center>
   <b>🖥️ My remote office setup 💻</b>
+  </br>
+  𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘢𝘶𝘵𝘰𝘯𝘰𝘮𝘰𝘶𝘴𝘭𝘺 𝘸/𝘰 𝘮𝘪𝘤𝘳𝘰𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵!
 </p>
 
 <p align="center">
