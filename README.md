@@ -182,6 +182,20 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
+<!-- Total CMD -->
+<p align=center>
+  <b>💾 Total Commander on Mac OS X</b>
+  </br>
+  <sub><i>𝘔𝘢𝘥𝘦 𝘵𝘩𝘦 𝘛𝘰𝘵𝘢𝘭 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘦𝘳 𝘞𝘪𝘯𝘥𝘰𝘸𝘴 𝘷𝘦𝘳𝘴𝘪𝘰𝘯 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘔𝘢𝘤 𝘖𝘚 𝘟 𝘣𝘺 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘮𝘺 𝘰𝘸𝘯 𝘟𝘤𝘰𝘥𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘶𝘴𝘪𝘯𝘨 𝘞𝘪𝘯𝘦 𝘊𝘳𝘰𝘴𝘴𝘰𝘷𝘦𝘳</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cotfas/TotalCommander-OSX">
+  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
+  </a>
+</p>
+
+
 
 
 
