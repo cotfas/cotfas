@@ -134,7 +134,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <p align="center">
   <a href="https://github.com/cotfas/Mobile-SDK-Camera-Public">
-  <img align="center" width="75%" src="https://github.com/user-attachments/assets/db8f3be7-2ddd-4892-9c18-d70c0155f3b3"/>
+  <img align="center" width="85%" src="https://github.com/user-attachments/assets/db8f3be7-2ddd-4892-9c18-d70c0155f3b3"/>
   </a>
 </p>
 
