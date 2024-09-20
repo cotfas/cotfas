@@ -161,7 +161,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <p align=center>
   <b>🚧 Android Bypass SSL Pinning</b>
   </br>
-  <sub><i>Bypassing the SSL Pinning for Twitter/X Android App to see the exchanged data between client-server</i></sub>
+  <sub><i>Bypassing the SSL Pinning for Twitter/X Android App to see the exchanged data between client-server.</i></sub>
 </p>
 
 <p align="center">
@@ -176,7 +176,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <p align=center>
   <b>🤖 Android Device Connector</b>
   </br>
-  <sub><i>𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘢 𝘊𝘓𝘐 𝘣𝘢𝘴𝘩 𝘴𝘤𝘳𝘪𝘱𝘵 𝘧𝘰𝘳 𝘔𝘢𝘤 𝘵𝘰 𝘦𝘢𝘴𝘪𝘭𝘺 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘵𝘰 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘴𝘤𝘳𝘦𝘦𝘯 𝘥𝘦𝘷𝘪𝘤𝘦𝘴 𝘳𝘦𝘮𝘰𝘵𝘦𝘭𝘺 𝘷𝘪𝘢 𝘈𝘋𝘉</i></sub>
+  <sub><i>𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘢 𝘊𝘓𝘐 𝘣𝘢𝘴𝘩 𝘴𝘤𝘳𝘪𝘱𝘵 𝘧𝘰𝘳 𝘔𝘢𝘤 𝘵𝘰 𝘦𝘢𝘴𝘪𝘭𝘺 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘵𝘰 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘴𝘤𝘳𝘦𝘦𝘯 𝘥𝘦𝘷𝘪𝘤𝘦𝘴 𝘳𝘦𝘮𝘰𝘵𝘦𝘭𝘺 𝘷𝘪𝘢 𝘈𝘋𝘉.</i></sub>
 </p>
 
 <p align="center">
@@ -191,7 +191,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <p align=center>
   <b>💾 Total Commander on Mac OS X</b>
   </br>
-  <sub><i>𝘔𝘢𝘥𝘦 𝘵𝘩𝘦 𝘛𝘰𝘵𝘢𝘭 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘦𝘳 𝘞𝘪𝘯𝘥𝘰𝘸𝘴 𝘷𝘦𝘳𝘴𝘪𝘰𝘯 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘔𝘢𝘤 𝘖𝘚 𝘟 𝘣𝘺 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘮𝘺 𝘰𝘸𝘯 𝘟𝘤𝘰𝘥𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘶𝘴𝘪𝘯𝘨 𝘞𝘪𝘯𝘦 𝘊𝘳𝘰𝘴𝘴𝘰𝘷𝘦𝘳</i></sub>
+  <sub><i>𝘔𝘢𝘥𝘦 𝘵𝘩𝘦 𝘛𝘰𝘵𝘢𝘭 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘦𝘳 𝘞𝘪𝘯𝘥𝘰𝘸𝘴 𝘷𝘦𝘳𝘴𝘪𝘰𝘯 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘔𝘢𝘤 𝘖𝘚 𝘟 𝘣𝘺 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘮𝘺 𝘰𝘸𝘯 𝘟𝘤𝘰𝘥𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘶𝘴𝘪𝘯𝘨 𝘞𝘪𝘯𝘦 𝘊𝘳𝘰𝘴𝘴𝘰𝘷𝘦𝘳.</i></sub>
 </p>
 
 <p align="center">
@@ -207,7 +207,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <p align=center>
   <b>🍽️ Book for Snack iOS App</b>
   </br>
-  <sub><i>𝘈 𝘚𝘸𝘪𝘧𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘵𝘰 𝘮𝘢𝘯𝘢𝘨𝘦 𝘙𝘦𝘴𝘵𝘢𝘶𝘳𝘢𝘯𝘵𝘴 𝘧𝘰𝘰𝘥</i></sub>
+  <sub><i>𝘈 𝘚𝘸𝘪𝘧𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘵𝘰 𝘮𝘢𝘯𝘢𝘨𝘦 𝘙𝘦𝘴𝘵𝘢𝘶𝘳𝘢𝘯𝘵𝘴 𝘧𝘰𝘰𝘥.</i></sub>
 </p>
 
 <p align="center">
