@@ -137,6 +137,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <!-- Android iOS SDK lib -->
 <p align=center>
   <b>📷 Android and iOS Camera SDK Library 📷</b>
+  </br>
+  - 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘥 𝘢 𝘮𝘰𝘣𝘪𝘭𝘦 𝘢𝘱𝘱 𝘧𝘰𝘳 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘢𝘯𝘥 𝘪𝘖𝘚 𝘶𝘴𝘪𝘯𝘨 𝘯𝘢𝘵𝘪𝘷𝘦 𝘤𝘰𝘥𝘦: 𝘶𝘴𝘦𝘳𝘴 𝘤𝘢𝘯 𝘵𝘢𝘬𝘦 𝘢𝘯𝘥 𝘴𝘵𝘰𝘳𝘦 𝘴𝘦𝘭𝘧𝘪𝘦𝘴 𝘱𝘳𝘪𝘷𝘢𝘵𝘦𝘭𝘺, 𝘢𝘯𝘥 𝘢𝘤𝘤𝘦𝘴𝘴 𝘵𝘩𝘦 𝘨𝘢𝘭𝘭𝘦𝘳𝘺 𝘰𝘯𝘭𝘺 𝘢𝘧𝘵𝘦𝘳 𝘣𝘪𝘰𝘮𝘦𝘵𝘳𝘪𝘤 𝘢𝘶𝘵𝘩𝘦𝘯𝘵𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘍𝘢𝘤𝘦 𝘐𝘋. 📱📸🔒
 </p>
 
 <p align="center">
@@ -221,7 +223,6 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   <summary><b>📥 🏆 Certificates and Achievements 🏅 🎓 (click to expand)</b></summary>
   
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/vladcotfas/">
   <img align="center" width="80%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-49b6wKSTV2X--tinified.jpg"/>
   </a>
