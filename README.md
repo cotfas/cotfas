@@ -289,7 +289,7 @@ GM: “Cotfas has a passion for technologies Java and Android and excels at busi
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 16 sept 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 20 sept 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
