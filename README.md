@@ -99,7 +99,11 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <br />
 
-📱 **Projects:**<br />
+<p align=center>
+  <b>📱 Projects ⚒️</b>
+</p>
+
+<br />
 
 <!-- App projects -->
 <table width="100%">
@@ -130,7 +134,9 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 </br>
 
-📷 Android and iOS Camera SDK Library 📷
+<p align=center>
+  <b>📷 Android and iOS Camera SDK Library 📷</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/cotfas/Mobile-SDK-Camera-Public">
