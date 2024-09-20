@@ -134,6 +134,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 </br>
 
+<!-- Android iOS SDK lib -->
 <p align=center>
   <b>📷 Android and iOS Camera SDK Library 📷</b>
 </p>
@@ -148,7 +149,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <details><summary>More details (click to expand)!</summary>
   
-  </br>
+</br>
     
 <!-- Github projects -->
 <table width="100%">
@@ -216,16 +217,23 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <!-- 📥 **Annex**:<br /> -->
 
-<p align=center>
-  <b>📥 🏆 Certificates and Achievements 🏅 🎓</b>
-</p>
+<details>
+  <summary>
+  <p align=center>
+  <b>📥 🏆 Certificates and Achievements 🏅 🎓 (click to expand)</b>
+  </p>
+  </summary>
   
+
+
 <p align="center">
   
   <a href="https://www.linkedin.com/in/vladcotfas/">
   <img align="center" width="80%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-49b6wKSTV2X--tinified.jpg"/>
   </a>
 </p>
+
+</details>
 
 
 
