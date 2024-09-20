@@ -78,7 +78,6 @@ _ ► 𝘈𝘵𝘵𝘦𝘯𝘥𝘦𝘥 𝘝𝘪𝘦𝘯𝘯𝘢 𝘗𝘪𝘰𝘯
 _ ► 𝘈𝘵𝘵𝘦𝘯𝘥𝘦𝘥 𝘗𝘔𝘋𝘢𝘺𝘴, 𝘗𝘳𝘰𝘫𝘦𝘤𝘵 𝘔𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵 𝘦𝘷𝘦𝘯𝘵, 2014<br />
 _ ► 𝘝𝘰𝘭𝘶𝘯𝘵𝘦𝘦𝘳, 𝘛𝘳𝘦𝘢𝘴𝘶𝘳𝘦𝘳 @ 𝘙𝘰𝘵𝘢𝘳𝘢𝘤𝘵 𝘊𝘭𝘶𝘣 𝘛𝘎𝘔𝘚, 2019<br />
 
-
 <br />
 🧮 𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗮𝘁𝗶𝗼𝗻𝗮𝗹:<br />
 _ ► 𝘈𝘵𝘵𝘦𝘯𝘵𝘪𝘰𝘯 𝘵𝘰 𝘥𝘦𝘵𝘢𝘪𝘭 𝘢𝘯𝘥 𝘱𝘳𝘰𝘢𝘤𝘵𝘪𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮-𝘴𝘰𝘭𝘷𝘪𝘯𝘨 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦.<br />
@@ -154,6 +153,10 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
+<details><summary>🔥 More project details (click to expand)❗</summary>
+
+</br>
+  
 <!-- SSLPinning -->
 <p align=center>
   <b>🚧 Android Bypass SSL Pinning</b>
@@ -198,42 +201,24 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
-
-
-
-<details><summary>More details (click to expand)!</summary>
-  
 </br>
-    
-<!-- Github projects -->
-<table width="100%">
-  <tr>
-    <td style="text-align: center; width: 50%;">
-      <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
-        <img src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg" alt="Bypass Android SSL Pinning" style="width: 100%;"/>
-      </a>
-    </td>
-    <td style="text-align: center; width: 45%;">
-      <a href="https://github.com/cotfas/TotalCommander-OSX">
-        <img src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg" alt="Total Commander on Mac" style="width: 100%;"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
+<!-- iOS Book for Snack -->
+<p align=center>
+  <b>🍽️ Book for Snack iOS App</b>
+  </br>
+  <sub><i>𝘈 𝘚𝘸𝘪𝘧𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘵𝘰 𝘮𝘢𝘯𝘢𝘨𝘦 𝘙𝘦𝘴𝘵𝘢𝘶𝘳𝘢𝘯𝘵𝘴 𝘧𝘰𝘰𝘥</i></sub>
+</p>
 
 <p align="center">
- <!-- <img align="center" width="80%" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"/> -->
-
-  <!-- <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video> -->
+  <a href="https://github.com/cotfas/BookForSnack">
+  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/book-for-snack-screenshot-tiny.png"/>
+  </a>
 </p>
 
 
-<!-- BookForSnak Does not work on Chrome -->
-<!-- ![Bottom](https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3) -->
-
-
-
+</br>
+  
 <table class="images" width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
         <td width="45%" style="border:0px; width:33.33%">
@@ -247,23 +232,6 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 </details>
 
-<!--
-| | |
-|:-------------------------:|:-------------------------:|
-|<video src="https://github.com/user-attachments/assets/4ad5834e-3e4f-4ba0-ac86-c9b25890a52a"></video> |  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>|
--->
-
-
-
-<!--
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3">  blah |  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
- -->
 
 
 -----------------
