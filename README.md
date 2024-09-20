@@ -154,6 +154,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
+<details><summary>More project details (click to expand)!</summary>
+  
 <!-- SSLPinning -->
 <p align=center>
   <b>🚧 Android Bypass SSL Pinning</b>
@@ -214,41 +216,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
-
-
-<details><summary>More details (click to expand)!</summary>
-  
 </br>
-    
-<!-- Github projects -->
-<table width="100%">
-  <tr>
-    <td style="text-align: center; width: 50%;">
-      <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
-        <img src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg" alt="Bypass Android SSL Pinning" style="width: 100%;"/>
-      </a>
-    </td>
-    <td style="text-align: center; width: 45%;">
-      <a href="https://github.com/cotfas/TotalCommander-OSX">
-        <img src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg" alt="Total Commander on Mac" style="width: 100%;"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<p align="center">
- <!-- <img align="center" width="80%" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"/> -->
-
-  <!-- <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video> -->
-</p>
-
-
-<!-- BookForSnak Does not work on Chrome -->
-<!-- ![Bottom](https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3) -->
-
-
-
+  
 <table class="images" width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
         <td width="45%" style="border:0px; width:33.33%">
@@ -262,23 +231,6 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 </details>
 
-<!--
-| | |
-|:-------------------------:|:-------------------------:|
-|<video src="https://github.com/user-attachments/assets/4ad5834e-3e4f-4ba0-ac86-c9b25890a52a"></video> |  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>|
--->
-
-
-
-<!--
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3">  blah |  <video src="https://github.com/user-attachments/assets/71afa2f8-3936-49ab-9ec0-2964f91fb3b3"></video>|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
- -->
 
 
 -----------------
