@@ -154,6 +154,21 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
+<!-- SSLPinning -->
+<p align=center>
+  <b>🚧 Android Bypass SSL Pinning</b>
+  </br>
+  <sub><i>Bypassing the SSL Pinning for Twitter/X Android App to see the exchanged data between client-server</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
+  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
+  </a>
+</p>
+
+
+
 
 <details><summary>More details (click to expand)!</summary>
   
