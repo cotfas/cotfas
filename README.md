@@ -1,4 +1,4 @@
-![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/Vlad-Cotfas-Mobile-Tech-Expert.jpg)
+![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/Vlad-Cotfas-Mobile-Engineer.png)
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
 </p>
@@ -13,6 +13,7 @@
 🗺️ 𝘋𝘪𝘨𝘪𝘵𝘢𝘭 𝘙𝘦𝘮𝘰𝘵𝘦 𝘴𝘪𝘯𝘤𝘦 2015<br />
 🤖 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘴𝘪𝘯𝘤𝘦 2012<br />
 📱 𝘈𝘱𝘱𝘭𝘦 / 𝘪𝘖𝘚 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘴𝘪𝘯𝘤𝘦 2017<br />
+🏅 𝘑𝘢𝘷𝘢 𝘖𝘳𝘢𝘤𝘭𝘦 𝘤𝘦𝘳𝘵𝘪𝘧𝘪𝘦𝘥 𝘪𝘯 2013<br />
 🧑🏻‍💻 𝘑𝘢𝘷𝘢 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳 (~2𝘺+)<br />
 🎓 𝘔𝘢𝘴𝘵𝘦𝘳 𝘪𝘯 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 (𝘔𝘚𝘤)<br />
 🏅 𝘉𝘢𝘤𝘩𝘦𝘭𝘰𝘳 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 (𝘉𝘌𝘯𝘨 / 𝘉𝘚𝘤)<br />
@@ -56,12 +57,13 @@
 ✅ 𝘊𝘐 / 𝘊𝘋: 𝘋𝘰𝘤𝘬𝘦𝘳, 𝘑𝘦𝘯𝘬𝘪𝘯𝘴, 𝘎𝘪𝘵𝘏𝘶𝘣, 𝘎𝘪𝘵𝘓𝘢𝘣, 𝘉𝘪𝘵𝘉𝘶𝘤𝘬𝘦𝘵, 𝘚𝘝𝘕, 𝘎𝘐𝘛.<br />
 ✅ 𝘖𝘚: 𝘞𝘪𝘯𝘥𝘰𝘸𝘴, 𝘓𝘪𝘯𝘶𝘹, 𝘔𝘢𝘤 𝘖𝘚 𝘟.<br />
 <br />
-⚒️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀:<br />
+<details><summary>⚒️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀 (click to expand)</summary>
+<br />
 ✅ 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘛𝘰𝘰𝘭𝘴: 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘚𝘵𝘶𝘥𝘪𝘰, 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘑 𝘐𝘋𝘌𝘈, 𝘟𝘤𝘰𝘥𝘦 𝘐𝘋𝘌, 𝘎𝘐𝘛, 𝘑𝘦𝘯𝘬𝘪𝘯𝘴, 𝘉𝘪𝘵𝘉𝘶𝘤𝘬𝘦𝘵, 𝘎𝘪𝘵𝘓𝘢𝘣, 𝘎𝘪𝘵𝘏𝘶𝘣, 𝘑𝘪𝘳𝘢, 𝘚𝘭𝘢𝘤𝘬, 𝘎𝘰𝘰𝘨𝘭𝘦 𝘔𝘦𝘦𝘵, 𝘛𝘦𝘢𝘮𝘴.<br />
 ✅ 𝘌𝘹𝘵𝘳𝘢 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘵𝘰𝘰𝘭𝘴: 𝘊𝘰𝘥𝘦𝘙𝘶𝘯𝘯𝘦𝘳, 𝘪𝘛𝘦𝘳𝘮2, 𝘗𝘳𝘰𝘹𝘺𝘔𝘢𝘯, 𝘚𝘶𝘣𝘭𝘪𝘮𝘦 𝘔𝘦𝘳𝘨𝘦, 𝘚𝘶𝘣𝘭𝘪𝘮𝘦 𝘛𝘦𝘹𝘵, 𝘛𝘰𝘵𝘢𝘭 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘦𝘳, 𝘉𝘦𝘺𝘰𝘯𝘥 𝘊𝘰𝘮𝘱𝘢𝘳𝘦, 𝘎𝘦𝘯𝘺𝘮𝘰𝘵𝘪𝘰𝘯, 𝘝𝘪𝘳𝘵𝘶𝘢𝘭𝘉𝘰𝘹, 𝘛𝘢𝘣𝘭𝘦𝘗𝘭𝘶𝘴, 𝘙𝘢𝘱𝘪𝘥𝘈𝘗𝘐.<br />
-
-
 <br />
+</details>
+
 🏆 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:<br />
 _ ► 𝘖𝘳𝘢𝘤𝘭𝘦 𝘑𝘢𝘷𝘢 𝘊𝘦𝘳𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯, 2013<br />
 _ ► 𝘔𝘪𝘤𝘳𝘰𝘴𝘰𝘧𝘵 𝘈𝘱𝘱 𝘏𝘢𝘤𝘬𝘢𝘵𝘩𝘰𝘯, 2013<br />
@@ -98,7 +100,15 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <br />
 
-📱 **Projects:**<br />
+<p align=center>
+  <b>📱 Projects ⚒️</b>
+  </br>
+  <sub><i>📲 Developed an Android Inspirational Quotes App with daily scheduled notifications, with 38k+ installs.</i></sub>
+  </br>
+  <sub><i>💹 Created a Finance Management Android App with account overview, percentage calculations, currency and graphical representation.</i></sub>
+</p>
+
+<br />
 
 <!-- App projects -->
 <table width="100%">
@@ -126,13 +136,74 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   </a>
 </p>
 
+##
 
+</br>
 
-
-
-  <details><summary>More details (click to expand)!</summary>
-  
+<!-- Android iOS SDK lib -->
+<p align=center>
+  <b>📷 Android and iOS Camera SDK Library 📷</b>
   </br>
+  <sub>📲 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘥 𝘢 𝘮𝘰𝘣𝘪𝘭𝘦 𝘢𝘱𝘱 𝘧𝘰𝘳 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘢𝘯𝘥 𝘪𝘖𝘚 𝘶𝘴𝘪𝘯𝘨 𝘯𝘢𝘵𝘪𝘷𝘦 𝘤𝘰𝘥𝘦: 𝘶𝘴𝘦𝘳𝘴 𝘤𝘢𝘯 𝘵𝘢𝘬𝘦 𝘢𝘯𝘥 𝘴𝘵𝘰𝘳𝘦 𝘴𝘦𝘭𝘧𝘪𝘦𝘴 𝘱𝘳𝘪𝘷𝘢𝘵𝘦𝘭𝘺, 𝘢𝘯𝘥 𝘢𝘤𝘤𝘦𝘴𝘴 𝘵𝘩𝘦 𝘨𝘢𝘭𝘭𝘦𝘳𝘺 𝘰𝘯𝘭𝘺 𝘢𝘧𝘵𝘦𝘳 𝘣𝘪𝘰𝘮𝘦𝘵𝘳𝘪𝘤 𝘢𝘶𝘵𝘩𝘦𝘯𝘵𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘍𝘢𝘤𝘦 𝘐𝘋. 📱📸🔒</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cotfas/Mobile-SDK-Camera-Public">
+  <img align="center" width="85%" src="https://github.com/user-attachments/assets/db8f3be7-2ddd-4892-9c18-d70c0155f3b3"/>
+  </a>
+</p>
+
+
+<!-- SSLPinning -->
+<p align=center>
+  <b>🚧 Android Bypass SSL Pinning</b>
+  </br>
+  <sub><i>Bypassing the SSL Pinning for Twitter/X Android App to see the exchanged data between client-server</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
+  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
+  </a>
+</p>
+
+</br>
+
+<!-- Android Connector -->
+<p align=center>
+  <b>🤖 Android Device Connector</b>
+  </br>
+  <sub><i>𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘢 𝘊𝘓𝘐 𝘣𝘢𝘴𝘩 𝘴𝘤𝘳𝘪𝘱𝘵 𝘧𝘰𝘳 𝘔𝘢𝘤 𝘵𝘰 𝘦𝘢𝘴𝘪𝘭𝘺 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘵𝘰 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘴𝘤𝘳𝘦𝘦𝘯 𝘥𝘦𝘷𝘪𝘤𝘦𝘴 𝘳𝘦𝘮𝘰𝘵𝘦𝘭𝘺 𝘷𝘪𝘢 𝘈𝘋𝘉</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cotfas/Android-Device-Connector">
+  <img align="center" width="75%" src="https://github.com/user-attachments/assets/0798fc79-8a4e-460b-90f8-ca1c00e36115"/>
+  </a>
+</p>
+
+</br>
+
+<!-- Total CMD -->
+<p align=center>
+  <b>💾 Total Commander on Mac OS X</b>
+  </br>
+  <sub><i>𝘔𝘢𝘥𝘦 𝘵𝘩𝘦 𝘛𝘰𝘵𝘢𝘭 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘦𝘳 𝘞𝘪𝘯𝘥𝘰𝘸𝘴 𝘷𝘦𝘳𝘴𝘪𝘰𝘯 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘔𝘢𝘤 𝘖𝘚 𝘟 𝘣𝘺 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘮𝘺 𝘰𝘸𝘯 𝘟𝘤𝘰𝘥𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘶𝘴𝘪𝘯𝘨 𝘞𝘪𝘯𝘦 𝘊𝘳𝘰𝘴𝘴𝘰𝘷𝘦𝘳</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cotfas/TotalCommander-OSX">
+  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
+  </a>
+</p>
+
+
+
+
+
+<details><summary>More details (click to expand)!</summary>
+  
+</br>
     
 <!-- Github projects -->
 <table width="100%">
@@ -195,29 +266,12 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
  -->
 
 
-
------------------
-
-<!-- 📥 **Annex**:<br /> -->
-
-<p align=center>
-  <b>📥 🏆 Certificates and Achievements 🏅 🎓</b>
-</p>
-  
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/vladcotfas/">
-  <img align="center" width="80%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-49b6wKSTV2X--tinified.jpg"/>
-  </a>
-</p>
-
-
-
-
 -----------------
 
 <p align=center>
   <b>🖥️ My remote office setup 💻</b>
+  </br>
+  𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘢𝘶𝘵𝘰𝘯𝘰𝘮𝘰𝘶𝘴𝘭𝘺 𝘸/𝘰 𝘮𝘪𝘤𝘳𝘰𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵!
 </p>
 
 <p align="center">
@@ -268,11 +322,25 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 -->
 
 
+<!-- 📥 **Annex**:<br /> -->
+<details>
+  <summary><b>📥 🏆 Certificates and Achievements 🏅 🎓 (click to expand)</b></summary>
+</br>  
+<p align="center">
+  <a href="https://www.linkedin.com/in/vladcotfas/">
+  <img align="center" width="80%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-49b6wKSTV2X--tinified.jpg"/>
+  </a>
+</p>
+
+</br>
+</details>
+
+
 🌱 `Looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨!`📲
 <br />
 ⛩️ _Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮_‼️<br />
 🍀 _Flexibility and openness to occasional on-site visits!_ 🏢<br />
-🙌 _Collaboration exclusively with the final client, excluding intermediary proxies!_ ❌<br />
+🙌 _Collaboration exclusively with the final client, excluding intermediary outsourcing/agencies companies!_ ❌<br />
 ╰┈➤ _I also want to build a strong long-term partnership!_ 🤝<br />
 🛺 _Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved!_ 💯<br />
 📩 _You can reach me at_ →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀
@@ -280,7 +348,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
   <br />
 <i>
-GM: “Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”
+“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”
 </i>
 </details>
 
@@ -288,7 +356,7 @@ GM: “Cotfas has a passion for technologies Java and Android and excels at busi
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 14 sept 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 20 sept 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
