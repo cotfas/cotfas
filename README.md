@@ -198,6 +198,21 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 
+</br>
+
+<!-- iOS Book for Snack -->
+<p align=center>
+  <b>🍽️ Book for Snack iOS App</b>
+  </br>
+  <sub><i>𝘈 𝘚𝘸𝘪𝘧𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘵𝘰 𝘮𝘢𝘯𝘢𝘨𝘦 𝘙𝘦𝘴𝘵𝘢𝘶𝘳𝘢𝘯𝘵𝘴 𝘧𝘰𝘰𝘥</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cotfas/BookForSnack">
+  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/book-for-snack-screenshot-tiny.png"/>
+  </a>
+</p>
+
 
 
 
