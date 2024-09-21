@@ -219,7 +219,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <!-- Trackpad App -->
 <p align=center>
-  <b>💻 Trackpad Mac Application</b>
+  <b>💻 Trackpad Mac Application (private source-code)</b>
   </br>
   <sub><i>𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘥 𝘢 𝘔𝘢𝘤 𝘖𝘚 𝘟 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘖𝘣𝘫𝘦𝘤𝘵𝘪𝘷𝘦-𝘊 𝘢𝘯𝘥 𝘚𝘸𝘪𝘧𝘵 𝘵𝘰 𝘩𝘢𝘯𝘥𝘭𝘦 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘵𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘨𝘦𝘴𝘵𝘶𝘳𝘦𝘴, </br>
     𝘴𝘶𝘤𝘩 𝘢𝘴 𝘤𝘰𝘯𝘵𝘳𝘰𝘭𝘭𝘪𝘯𝘨 𝘴𝘤𝘳𝘦𝘦𝘯 𝘣𝘳𝘪𝘨𝘩𝘵𝘯𝘦𝘴𝘴, 𝘢𝘥𝘫𝘶𝘴𝘵𝘪𝘯𝘨 𝘷𝘰𝘭𝘶𝘮𝘦, 𝘸𝘪𝘯𝘥𝘰𝘸 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵, 𝘢𝘯𝘥 𝘻𝘰𝘰𝘮𝘪𝘯𝘨 𝘵𝘩𝘦 𝘴𝘤𝘳𝘦𝘦𝘯 𝘪𝘯/𝘰𝘶𝘵.</i></sub>
@@ -341,7 +341,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 20 sept 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 21 sept 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
