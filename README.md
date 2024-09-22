@@ -133,7 +133,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <!-- Stats projects -->
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=ro.rilley.dailybibleapp">
+  <a href="https://raw.githubusercontent.com/cotfas/cotfas/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png">
   <img align="center" width="95%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png"/>
   </a>
 </p>
@@ -345,7 +345,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 21 sept 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 22 sept 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
