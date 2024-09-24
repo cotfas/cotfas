@@ -64,7 +64,7 @@
 <br />
 </details>
 
-<details><summary>☀️ <b>View more</b> (click to expand)</summary>
+<details><summary>☀️ <b>View More</b> (click to expand)</summary>
 <br />
 🏆 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:<br />
 _ ► 𝘖𝘳𝘢𝘤𝘭𝘦 𝘑𝘢𝘷𝘢 𝘊𝘦𝘳𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯, 2013<br />
