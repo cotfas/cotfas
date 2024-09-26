@@ -335,17 +335,19 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 📩 _You can reach me at_ →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀
 
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
-  <br />
+<br />
 <i>
+<p align="justify">
 “Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”
 </i>
+</p>
 </details>
 
 
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 22 sept 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 27 sept 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
