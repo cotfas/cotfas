@@ -335,7 +335,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 ⛩️ _Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮_‼️<br />
 🍀 _Flexibility and openness to occasional on-site visits!_ 🏢<br />
 🙌 _Collaboration exclusively with the final client, excluding intermediary outsourcing/agencies companies!_ ❌<br />
-╰┈➤ _I also want to build a strong long-term partnership!_ 🤝<br />
+<!--╰┈➤ _I also want to build a strong long-term partnership!_ 🤝<br />-->
 🛺 _Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved!_ 💯<br />
 📩 _You can reach me at_ →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀
 
@@ -352,7 +352,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 01 Oct 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 20 Oct 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
