@@ -64,6 +64,8 @@
 <br />
 </details>
 
+<details><summary>☀️ <b>View More</b> (click to expand)</summary>
+<br />
 🏆 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:<br />
 _ ► 𝘖𝘳𝘢𝘤𝘭𝘦 𝘑𝘢𝘷𝘢 𝘊𝘦𝘳𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯, 2013<br />
 _ ► 𝘔𝘪𝘤𝘳𝘰𝘴𝘰𝘧𝘵 𝘈𝘱𝘱 𝘏𝘢𝘤𝘬𝘢𝘵𝘩𝘰𝘯, 2013<br />
@@ -90,6 +92,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <br />
 <br />
+</details>
 
 
 -----------------
@@ -102,9 +105,9 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <p align=center>
   <b>📱 Projects ⚒️</b>
   </br>
-  <sub><i>📲 Developed an Android Inspirational Quotes App with daily scheduled notifications, with 38k+ installs.</i></sub>
+  <sub>📲 <i>Developed an Android Inspirational Quotes App with daily scheduled notifications, with 38k+ installs.</i></sub>
   </br>
-  <sub><i>💹 Created a Finance Management Android App with account overview, percentage calculations, currency and graphical representation.</i></sub>
+  <sub>💹 <i>Created a Finance Management Android App with account overview, percentage calculations, currency and graphical representation.</i></sub>
 </p>
 
 <br />
@@ -130,7 +133,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <!-- Stats projects -->
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=ro.rilley.dailybibleapp">
+  <a href="https://raw.githubusercontent.com/cotfas/cotfas/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png">
   <img align="center" width="95%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png"/>
   </a>
 </p>
@@ -156,6 +159,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <details><summary>🔥 More project details (click to expand)❗</summary>
 
 </br>
+<br />
   
 <!-- SSLPinning -->
 <p align=center>
@@ -163,7 +167,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   </br>
   <sub><i>Bypassing the SSL Pinning for Twitter/X Android App to see the exchanged data between client-server.</i></sub>
 </p>
-
+<br />
 <p align="center">
   <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
   <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
@@ -178,7 +182,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   </br>
   <sub><i>𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘢 𝘊𝘓𝘐 𝘣𝘢𝘴𝘩 𝘴𝘤𝘳𝘪𝘱𝘵 𝘧𝘰𝘳 𝘔𝘢𝘤 𝘵𝘰 𝘦𝘢𝘴𝘪𝘭𝘺 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘵𝘰 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘴𝘤𝘳𝘦𝘦𝘯 𝘥𝘦𝘷𝘪𝘤𝘦𝘴 𝘳𝘦𝘮𝘰𝘵𝘦𝘭𝘺 𝘷𝘪𝘢 𝘈𝘋𝘉.</i></sub>
 </p>
-
+<br />
 <p align="center">
   <a href="https://github.com/cotfas/Android-Device-Connector">
   <img align="center" width="75%" src="https://github.com/user-attachments/assets/0798fc79-8a4e-460b-90f8-ca1c00e36115"/>
@@ -193,7 +197,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   </br>
   <sub><i>𝘔𝘢𝘥𝘦 𝘵𝘩𝘦 𝘛𝘰𝘵𝘢𝘭 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘦𝘳 𝘞𝘪𝘯𝘥𝘰𝘸𝘴 𝘷𝘦𝘳𝘴𝘪𝘰𝘯 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘔𝘢𝘤 𝘖𝘚 𝘟 𝘣𝘺 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘮𝘺 𝘰𝘸𝘯 𝘟𝘤𝘰𝘥𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘶𝘴𝘪𝘯𝘨 𝘞𝘪𝘯𝘦 𝘊𝘳𝘰𝘴𝘴𝘰𝘷𝘦𝘳.</i></sub>
 </p>
-
+<br />
 <p align="center">
   <a href="https://github.com/cotfas/TotalCommander-OSX">
   <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
@@ -219,7 +223,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <!-- Trackpad App -->
 <p align=center>
-  <b>💻 Trackpad Mac Application</b>
+  <b>💻 Trackpad Mac Application (private source-code)</b>
   </br>
   <sub><i>𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘥 𝘢 𝘔𝘢𝘤 𝘖𝘚 𝘟 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘖𝘣𝘫𝘦𝘤𝘵𝘪𝘷𝘦-𝘊 𝘢𝘯𝘥 𝘚𝘸𝘪𝘧𝘵 𝘵𝘰 𝘩𝘢𝘯𝘥𝘭𝘦 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘵𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘨𝘦𝘴𝘵𝘶𝘳𝘦𝘴, </br>
     𝘴𝘶𝘤𝘩 𝘢𝘴 𝘤𝘰𝘯𝘵𝘳𝘰𝘭𝘭𝘪𝘯𝘨 𝘴𝘤𝘳𝘦𝘦𝘯 𝘣𝘳𝘪𝘨𝘩𝘵𝘯𝘦𝘴𝘴, 𝘢𝘥𝘫𝘶𝘴𝘵𝘪𝘯𝘨 𝘷𝘰𝘭𝘶𝘮𝘦, 𝘸𝘪𝘯𝘥𝘰𝘸 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵, 𝘢𝘯𝘥 𝘻𝘰𝘰𝘮𝘪𝘯𝘨 𝘵𝘩𝘦 𝘴𝘤𝘳𝘦𝘦𝘯 𝘪𝘯/𝘰𝘶𝘵.</i></sub>
@@ -307,7 +311,9 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 -->
 
 
+
 <!-- 📥 **Annex**:<br /> -->
+<!--
 <details>
   <summary><b>📥 🏆 Certificates and Achievements 🏅 🎓 (click to expand)</b></summary>
 </br>  
@@ -320,20 +326,24 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </br>
 </details>
 
+-->
+
+
 
 🌱 `Looking to collaborate on →→→ 𝘼𝙬𝙚𝙨𝙤𝙢𝙚 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨!`📲
 <br />
 ⛩️ _Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮_‼️<br />
 🍀 _Flexibility and openness to occasional on-site visits!_ 🏢<br />
 🙌 _Collaboration exclusively with the final client, excluding intermediary outsourcing/agencies companies!_ ❌<br />
-╰┈➤ _I also want to build a strong long-term partnership!_ 🤝<br />
 🛺 _Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved!_ 💯<br />
 📩 _You can reach me at_ →→→ [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀
 
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
-  <br />
+<br />
 <i>
-“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”
+<p align="justify">
+<code>“Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”</code>
+</p>
 </i>
 </details>
 
@@ -341,7 +351,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 ##
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 20 sept 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 20 Oct 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
