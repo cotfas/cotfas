@@ -47,7 +47,7 @@
 🛺 Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved! 💯<br />
 <br />
 📍 Send me a [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀 DM or reach out on my email for any inquiry →→→ vlad@digitalbinary.io 📩<br />
-<br />
+
 </i>
 
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
