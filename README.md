@@ -40,10 +40,10 @@
 🧩 𝗪𝗿𝗼𝘁𝗲 𝗰𝗼𝗱𝗲 𝘁𝗵𝗮𝘁 𝗿𝘂𝗻𝘀 𝗼𝗻 𝟭𝗠+ 𝗺𝗼𝗯𝗶𝗹𝗲 𝗱𝗲𝘃𝗶𝗰𝗲𝘀 😁<br />
 <br />
 [CTA]<br />
-🌱 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 😁<br />
+🌱 𝙊𝙥𝙚𝙣 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙢𝙤𝙗𝙞𝙡𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙤𝙧 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜-𝙧𝙚𝙡𝙖𝙩𝙚𝙙 𝙛𝙞𝙚𝙡𝙙𝙨! 😁<br />
 ⛩️ Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️<br />
 🍀 Flexibility and openness to occasional on-site visits! 🏢<br />
-🙌 Collaboration exclusively with the final client, excluding intermediary outsourcing/agencies companies! ❌<br />
+🙌 Collaboration exclusively with the final client, excluding intermediary outsourcing companies! ❌<br />
 🛺 Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved! 💯<br />
 <br />
 📍 Send me a [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀 DM or reach out on my email for any inquiry →→→ vlad@digitalbinary.io 📩<br />
@@ -407,7 +407,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 21 Oct 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 28 Oct 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
