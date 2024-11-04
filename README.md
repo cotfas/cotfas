@@ -34,7 +34,7 @@
 🏅 Java Oracle Certified in 2013<br />
 🧑🏻‍💻 Java Backend Engineer ~2y+<br />
 ♻️ Volunteer and Rotaract Board Treasurer in 2019<br />
-🏆 Won 1st place SW14 Hackathon, 2014<br />
+🏆 Won 1st place SW14 Hackathon in 2014<br />
 🎓 Master in Information Technology, MSc, BEng-BSc<br />
 📲 LinkedIn 'Top Mobile Applications Voice' since Sep 2024<br />
 💯 Freelance Toptal Member since Oct 2024<br />
