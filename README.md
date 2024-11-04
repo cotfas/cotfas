@@ -27,20 +27,21 @@
 <br />
 <i>
 [TL;DR]<br />
-⚡ Senior Mobile Engineer with 10+ Yrs Exp<br />
+⚡ Senior Software Engineer with 10+ Yrs Exp<br />
 🗺️ Digital Remote since 2015<br />
 🤖 Android Engineer since 2012<br />
 📱 Apple / iOS Developer since 2017<br />
 🏅 Java Oracle Certified in 2013<br />
 🧑🏻‍💻 Java Backend Engineer ~2y+<br />
-♻️ Rotaract Board Treasurer, 2019-2020<br />
+♻️ Volunteer and Rotaract Board Treasurer in 2019<br />
 🏆 Won 1st place SW14 Hackathon, 2014<br />
-🎓 Master in Information Technology, MSc<br />
-🎖️ Bachelor of Engineering in Computer Science, BEng-BSc<br />
-🧩 𝗪𝗿𝗼𝘁𝗲 𝗰𝗼𝗱𝗲 𝘁𝗵𝗮𝘁 𝗿𝘂𝗻𝘀 𝗼𝗻 𝟭𝗠+ 𝗺𝗼𝗯𝗶𝗹𝗲 𝗱𝗲𝘃𝗶𝗰𝗲𝘀 😁<br />
+🎓 Master in Information Technology, MSc, BEng-BSc<br />
+📲 LinkedIn 'Top Mobile Applications Voice' since Sep 2024<br />
+💯 Freelance Toptal Member since Oct 2024<br />
+🧩 Wrote code that runs on 1M+ mobile devices<br />
 <br />
 [CTA]<br />
-🌱 𝙊𝙥𝙚𝙣 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙢𝙤𝙗𝙞𝙡𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙤𝙧 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜-𝙧𝙚𝙡𝙖𝙩𝙚𝙙 𝙛𝙞𝙚𝙡𝙙𝙨! 😁<br />
+🌱 𝙊𝙥𝙚𝙣 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙢𝙤𝙗𝙞𝙡𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙤𝙧 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜-𝙧𝙚𝙡𝙖𝙩𝙚𝙙 𝙛𝙞𝙚𝙡𝙙𝙨!<br />
 ⛩️ Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️<br />
 🍀 Flexibility and openness to occasional on-site visits! 🏢<br />
 🙌 Collaboration exclusively with the final client, excluding intermediary outsourcing companies! ❌<br />
@@ -407,7 +408,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 29 Oct 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 4 Nov 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
