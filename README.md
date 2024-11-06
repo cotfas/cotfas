@@ -1,4 +1,4 @@
-![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/Vlad-Cotfas-Mobile-Engineer.png)
+![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/VladCotfas-MobileEngineer-Header-Tiny.png)
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
 </p>
