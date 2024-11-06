@@ -1,7 +1,7 @@
 ![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/VladCotfas-MobileEngineer-Header-Tiny.png)
-<p align="right">
+<!--<p align="right">
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
-</p>
+</p>-->
 
 <!--## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋, 𝘝𝘭𝘢𝘥 𝘩𝘦𝘳𝘦, ®𝘙𝘦𝘮𝘰𝘵𝘦 𝘚𝘞𝘌, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘔𝘰𝘣𝘪𝘭𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 📲
 
@@ -33,8 +33,10 @@
 🙌 Collaboration exclusively with the final client, excluding intermediary outsourcing corporations! ❌<br />
 🛺 Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved! 💯<br />
 <br />
-📍 Send me a [LinkedIn](https://linkedin.com/in/vladcotfas) 🚀 DM or reach out on my email address for any inquiry →→→ vlad@digitalbinary.io 📩<br />
+📍 Send me a Linkedin - https://linkedin.com/in/vladcotfas 🚀 DM or reach out on my email address for any inquiry →→→ vlad@digitalbinary.io 📩<br />
 </i>
+
+<br>
 
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
 <br />
