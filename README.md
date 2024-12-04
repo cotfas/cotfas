@@ -6,7 +6,11 @@
 
 <!--## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋, 𝘝𝘭𝘢𝘥 𝘩𝘦𝘳𝘦, ®𝘙𝘦𝘮𝘰𝘵𝘦 𝘚𝘞𝘌, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘔𝘰𝘣𝘪𝘭𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 📲-->
 
-— 𝘱𝘳𝘰𝘧𝘪𝘤𝘪𝘦𝘯𝘵 𝘢𝘯𝘥 𝘵𝘢𝘭𝘦𝘯𝘵𝘦𝘥 𝘔𝘰𝘣𝘪𝘭𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘸𝘪𝘵𝘩 𝘰𝘷𝘦𝘳 10 𝘺𝘦𝘢𝘳𝘴 𝘰𝘧 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘵𝘩𝘦 𝘵𝘦𝘤𝘩 𝘧𝘪𝘦𝘭𝘥, 𝘩𝘢𝘷𝘪𝘯𝘨 𝘸𝘰𝘳𝘬𝘦𝘥 𝘸𝘪𝘵𝘩 𝘤𝘭𝘪𝘦𝘯𝘵𝘴 𝘸𝘰𝘳𝘭𝘥𝘸𝘪𝘥𝘦 — 𝘱𝘰𝘴𝘴𝘦𝘴𝘴𝘪𝘯𝘨 𝘦𝘹𝘤𝘦𝘭𝘭𝘦𝘯𝘵 𝘴𝘰𝘧𝘵 𝘴𝘬𝘪𝘭𝘭𝘴, 𝘢 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘣𝘭𝘦 𝘵𝘦𝘢𝘮 𝘱𝘭𝘢𝘺𝘦𝘳 𝘸𝘩𝘰 𝘵𝘢𝘬𝘦𝘴 𝘰𝘸𝘯𝘦𝘳𝘴𝘩𝘪𝘱 𝘰𝘧 𝘮𝘺 𝘸𝘰𝘳𝘬, 𝘢𝘯𝘥 𝘴𝘵𝘳𝘰𝘯𝘨𝘭𝘺 𝘣𝘦𝘭𝘪𝘦𝘷𝘪𝘯𝘨 𝘪𝘯 𝘢 𝘲𝘶𝘢𝘭𝘪𝘵𝘺-𝘥𝘳𝘪𝘷𝘦𝘯, 𝘳𝘦𝘴𝘶𝘭𝘵𝘴-𝘰𝘳𝘪𝘦𝘯𝘵𝘦𝘥 𝘮𝘪𝘯𝘥𝘴𝘦𝘵.
+<i>
+— Independent contractor that I can work as solo or within a team, to build your project idea to life, and maintaining a healthy business relationship.
+
+— proficient and talented Mobile Engineer with over 10 years of experience in the tech field, having worked with clients worldwide — possessing excellent soft skills, a responsible team player who takes ownership of my work, and strongly believing in a quality-driven, results-oriented mindset.
+</i>
 
 ##
 <br />
@@ -26,10 +30,9 @@
 [CTA]<br />
 
 ► 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗳𝗶𝗲𝗹𝗱𝘀!<br />
-► Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️<br />
-► Flexibility and openness to occasional on-site visits! <br />
-► Collaboration exclusively with the final client, excluding intermediary outsourcing corporations! ❌<br />
-► Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved! 💯<br />
+► Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️ — Flexibility and openness to occasional on-site visits! <br />
+<!--► Collaboration exclusively with the final client, excluding intermediary outsourcing corporations! ❌<br />
+► Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved! 💯<br />-->
 <br />
 📍 Send me a LinkedIn - https://linkedin.com/in/vladcotfas 🚀 DM or reach out on my email address for any inquiry →→→ vlad@digitalbinary.io 📩<br />
 
