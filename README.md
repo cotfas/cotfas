@@ -8,7 +8,11 @@
 
 <i>
 — Independent contractor that I can work as solo or within a team, to build your project idea to life, and maintaining a healthy business relationship.
+</i>
 
+<p></p>
+
+<i>
 — proficient and talented Mobile Engineer with over 10 years of experience in the tech field, having worked with clients worldwide — possessing excellent soft skills, a responsible team player who takes ownership of my work, and strongly believing in a quality-driven, results-oriented mindset.
 </i>
 
