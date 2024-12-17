@@ -26,7 +26,7 @@
 📱 Apple / iOS Developer since 2017<br />
 🏅 Java Oracle Certified in 2013<br />
 ♻️ Volunteer and Rotaract Board Treasurer in 2019<br />
-📲 LinkedIn 'Top Mobile Applications Voice' since Sep 2024<br />
+📲 LinkedIn 'Top Mobile Applications Voice', Sep — Dec 2024<br />
 💯 Freelance Toptal Member since Oct 2024<br />
 🧩 Wrote code that runs on 1M+ mobile devices<br />
 </i>
