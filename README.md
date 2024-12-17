@@ -35,8 +35,8 @@
 
 ► 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗳𝗶𝗲𝗹𝗱𝘀!<br />
 ► Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️ — Flexibility and openness to occasional on-site visits! <br />
-<!--► Collaboration exclusively with the final client, excluding intermediary outsourcing corporations! ❌<br />
-► Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved! 💯<br />-->
+<!--► Collaboration exclusively with the final client, excluding intermediary outsourcing corporations! ❌<br />-->
+► Preferring to work autonomously without micromanagement on startup or product projects where I can be fully involved! 💯<br />
 <br />
 📍 Send me a LinkedIn - https://linkedin.com/in/vladcotfas 🚀 DM or reach out on my email address for any inquiry →→→ vlad@digitalbinary.io 📩<br />
 
