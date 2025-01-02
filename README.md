@@ -1,12 +1,20 @@
-[![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/VladCotfas-MobileEngineer-Header-Tiny.png)](https://digitalbinary.io)
+[![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/MobileEngineer-Header-1500x500.jpeg)](https://digitalbinary.io)
 
 <!--<p align="right">
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
 </p>-->
 
-<!--## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋, 𝘝𝘭𝘢𝘥 𝘩𝘦𝘳𝘦, ®𝘙𝘦𝘮𝘰𝘵𝘦 𝘚𝘞𝘌, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘔𝘰𝘣𝘪𝘭𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 📲
+<!--## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋, 𝘝𝘭𝘢𝘥 𝘩𝘦𝘳𝘦, ®𝘙𝘦𝘮𝘰𝘵𝘦 𝘚𝘞𝘌, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘔𝘰𝘣𝘪𝘭𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 📲-->
 
-— 𝘝𝘭𝘢𝘥 𝘪𝘴 𝘢 𝘱𝘳𝘰𝘧𝘪𝘤𝘪𝘦𝘯𝘵 𝘢𝘯𝘥 𝘵𝘢𝘭𝘦𝘯𝘵𝘦𝘥 𝘔𝘰𝘣𝘪𝘭𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘸𝘪𝘵𝘩 𝘰𝘷𝘦𝘳 10 𝘺𝘦𝘢𝘳𝘴 𝘰𝘧 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘵𝘩𝘦 𝘵𝘦𝘤𝘩 𝘧𝘪𝘦𝘭𝘥, 𝘩𝘢𝘷𝘪𝘯𝘨 𝘸𝘰𝘳𝘬𝘦𝘥 𝘸𝘪𝘵𝘩 𝘤𝘭𝘪𝘦𝘯𝘵𝘴 𝘸𝘰𝘳𝘭𝘥𝘸𝘪𝘥𝘦. — 𝘏𝘦 𝘱𝘰𝘴𝘴𝘦𝘴𝘴𝘦𝘴 𝘦𝘹𝘤𝘦𝘭𝘭𝘦𝘯𝘵 𝘴𝘰𝘧𝘵 𝘴𝘬𝘪𝘭𝘭𝘴 𝘢𝘯𝘥 𝘪𝘴 𝘢 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘣𝘭𝘦 𝘵𝘦𝘢𝘮 𝘱𝘭𝘢𝘺𝘦𝘳 𝘸𝘩𝘰 𝘵𝘢𝘬𝘦𝘴 𝘰𝘸𝘯𝘦𝘳𝘴𝘩𝘪𝘱 𝘰𝘧 𝘩𝘪𝘴 𝘸𝘰𝘳𝘬, 𝘴𝘵𝘳𝘰𝘯𝘨𝘭𝘺 𝘣𝘦𝘭𝘪𝘦𝘷𝘪𝘯𝘨 𝘪𝘯 𝘢 𝘲𝘶𝘢𝘭𝘪𝘵𝘺-𝘥𝘳𝘪𝘷𝘦𝘯, 𝘳𝘦𝘴𝘶𝘭𝘵𝘴-𝘰𝘳𝘪𝘦𝘯𝘵𝘦𝘥 𝘮𝘪𝘯𝘥𝘴𝘦𝘵.<br />-->
+<i>
+— Independent contractor that I can work as solo or within a team, to build your project idea to life, and maintaining a healthy business relationship.
+</i>
+
+<p></p>
+
+<i>
+— proficient and talented Mobile Engineer with over 10 years of experience in the tech field, having worked with clients worldwide — possessing excellent soft skills, a responsible team player who takes ownership of my work, and strongly believing in a quality-driven, results-oriented mindset.
+</i>
 
 ##
 <br />
@@ -17,25 +25,21 @@
 🤖 Android Engineer since 2012<br />
 📱 Apple / iOS Developer since 2017<br />
 🏅 Java Oracle Certified in 2013<br />
-🧑🏻‍💻 Java Backend Engineer ~2y+<br />
 ♻️ Volunteer and Rotaract Board Treasurer in 2019<br />
-🏆 Won 1st place SW14 Hackathon in 2014<br />
-🎓 Master in Information Technology, MSc, BEng-BSc<br />
-📲 LinkedIn 'Top Mobile Applications Voice' since Sep 2024<br />
+📲 LinkedIn 'Top Mobile Applications Voice', Sep — Dec 2024<br />
 💯 Freelance Toptal Member since Oct 2024<br />
 🧩 Wrote code that runs on 1M+ mobile devices<br />
 </i>
 <br />
 [CTA]<br />
-<i>
-🌱 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗳𝗶𝗲𝗹𝗱𝘀!<br />
-⛩️ Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️<br />
-🍀 Flexibility and openness to occasional on-site visits! 🏢<br />
-🙌 Collaboration exclusively with the final client, excluding intermediary outsourcing corporations! ❌<br />
-🛺 Preferring to work autonomously w/o micromanagement on startup or product projects where I can be 100% involved! 💯<br />
+
+► 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗳𝗶𝗲𝗹𝗱𝘀!<br />
+► Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️ — Flexibility and openness to occasional on-site visits! <br />
+<!--► Collaboration exclusively with the final client, excluding intermediary outsourcing corporations! ❌<br />-->
+► Preferring to work autonomously without micromanagement on startup or product projects where I can be fully involved! 💯<br />
 <br />
 📍 Send me a LinkedIn - https://linkedin.com/in/vladcotfas 🚀 DM or reach out on my email address for any inquiry →→→ vlad@digitalbinary.io 📩<br />
-</i>
+
 
 <br>
 
@@ -135,6 +139,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 -----------------
 
+<details><summary>🔥 More project details (click to expand)❗</summary>
+  
 <br />
 
 <p align=center>
@@ -190,8 +196,6 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   </a>
 </p>
 
-
-<details><summary>🔥 More project details (click to expand)❗</summary>
 
 </br>
 <br />
@@ -378,7 +382,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 6 Nov 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 4 Dec 2024, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
