@@ -13,7 +13,7 @@
 <p></p>
 
 <i>
-— proficient and talented Mobile Engineer with over 10 years of experience in the tech field, having worked with clients worldwide — possessing excellent soft skills, a responsible team player who takes ownership of my work, and strongly believing in a quality-driven, results-oriented mindset.
+— Proficient and talented Mobile Engineer with over 10 years of experience in the tech field, having worked with clients worldwide — possessing excellent soft skills, a responsible team player who takes ownership of my work, and strongly believing in a quality-driven, results-oriented mindset.
 </i>
 
 ##
@@ -27,7 +27,7 @@
 🏅 Java Oracle Certified in 2013<br />
 ♻️ Volunteer and Rotaract Board Treasurer in 2019<br />
 📲 LinkedIn 'Top Mobile Applications Voice', Sep — Dec 2024<br />
-💯 Freelance Toptal Member since Oct 2024<br />
+💯 Verified Expert in Engineering, Freelance Toptal Member since Oct 2024<br />
 🧩 Wrote code that runs on 1M+ mobile devices<br />
 </i>
 <br />
@@ -35,7 +35,6 @@
 
 ► 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗳𝗶𝗲𝗹𝗱𝘀!<br />
 ► Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️ — Flexibility and openness to occasional on-site visits! <br />
-<!--► Collaboration exclusively with the final client, excluding intermediary outsourcing corporations! ❌<br />-->
 ► Preferring to work autonomously without micromanagement on startup or product projects where I can be fully involved! 💯<br />
 <br />
 📍 Send me a LinkedIn - https://linkedin.com/in/vladcotfas 🚀 DM or reach out on my email address for any inquiry →→→ vlad@digitalbinary.io 📩<br />
@@ -382,7 +381,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on 4 Dec 2024, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on 9 Jan 2025, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
 
